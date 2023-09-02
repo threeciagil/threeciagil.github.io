@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="720pt" height="405pt" viewBox="0 0 720 405">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M0 0H365760V205740H0V0Z"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M0 0H365760V205740H0Z" fill="#4285f4" fill-rule="evenodd"/>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M20707 47201.76H345055V98921.76H20707Z" fill-opacity="0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 40.76181 92.916858)" font-size="48" font-family="OpenSans" font-weight="bold"><tspan y="55.079999" x="0 29.472 57.120004 77.80801 105.64801 136.12802 159.93602 187.77602 218.25601 244.848 272.68803 303.16804 315.60005 347.32804 377.18403 390.528 403.872 431.328 459.168 482.496 495.84 508.272 553.632 581.28 611.13607 623.56808 654.04806 684.528 703.48806 733.968 761.424">Perancangan Aplikasi Web untuk </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 40.76181 92.916858)" font-size="48" font-family="OpenSans" font-weight="bold"><tspan y="112.67999" x="0 29.472 57.120004 87.600009 100.94401 131.42401 159.264 172.608 200.448 230.92801 243.36002 273.216 286.56 298.992 326.064 355.344 382.8 412.08 424.512 456.14399 483.792 504.47999 523.44 549.12 561.552 593.184 620.83206 641.52 662.208">Penjualan di Toko Berty Berry</tspan></text>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M20707 110786.52H217951V132950.52H20707Z" fill-opacity="0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 40.76181 218.0837)" font-size="32" font-family="OpenSans"><tspan y="39.72" x="0 17.6 37.216005 50.272005 68.22401 86.17601 101.50401 109.568019 127.32802 135.61602 155.84001 173.18402 181.24802 189.31201 197.6 217.34401 235.296 252.64002 260.704 272.096 289.85603 305.088 322.84803 335.90403">Threecia Agil Regitasari</tspan></text>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M253026 106833H20706" fill-opacity="0" fill-rule="evenodd"/>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" stroke-width="762" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#ffffff" d="M253026 106833H20706"/>
+</g>
+</g>
+</svg>

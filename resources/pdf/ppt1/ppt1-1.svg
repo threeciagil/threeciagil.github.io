@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="720pt" height="405.04pt" viewBox="0 0 720 405.04">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M0 .000061035H720V405.04008H0Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M0 .000030518H720V405.04005H0Z" fill="#4285f4" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_1)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="36.201" font-family="Calibri"><tspan y="-271.12" x="40.788 59.503915 77.64062 90.38337 107.72365 126.87398 142.187 159.52729 178.3156 195.36627 212.38076 231.49488 238.59027 259.55067 278.62858 286.7738 294.91905 311.2457 328.58598 342.74058 351.0668 358.77763 375.3939 393.4944 401.63963 420.75376 428.899 446.9271 459.70606 466.80146 485.9156 505.02973 517.15707 536.1626 552.63406">Perancangan Aplikasi Seluler untuk </tspan></text>
+</g>
+<g clip-path="url(#clip_2)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="36.201" font-family="Calibri"><tspan y="-227.8" x="40.788 59.503915 77.64062 96.754749 105.26198 124.37611 141.71639 149.89781 167.2381 186.06262 193.15802 212.27214 220.41738 228.5988 246.22869 265.41523 281.74189 300.81983 308.34965 327.862 345.8901 358.66908 370.79643 387.05067 394.8701 414.38246 432.41056 445.1895 457.93229">Penjualan di Toko Berty Berry</tspan></text>
+</g>
+<g clip-path="url(#clip_3)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="24.142" font-family="Open Sans"><tspan y="-156.84" x="40.788 54.235097 69.106578 79.0048 92.54846 105.97141 117.31815 123.35365">Threecia</tspan></text>
+</g>
+<g clip-path="url(#clip_4)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="24.142" font-family="Open Sans"><tspan y="-156.84" x="142.63 157.9119 170.99686 177.03235">Agil</tspan></text>
+</g>
+<g clip-path="url(#clip_5)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="24.142" font-family="Open Sans"><tspan y="-156.84" x="189.47 204.38976 217.83684 230.97008 237.00557 245.5277 258.95066 270.3457 283.76866">Regitasar</tspan></text>
+</g>
+<g clip-path="url(#clip_6)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="24.142" font-family="Open Sans"><tspan y="-156.84" x="293.79">i</tspan></text>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.04)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#ffffff" d="M498.11 194.72H40.788"/>
+</g>
+</svg>

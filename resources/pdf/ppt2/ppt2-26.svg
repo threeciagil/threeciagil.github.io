@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="720pt" height="405pt" viewBox="0 0 720 405">
+<defs>
+<clipPath id="clip_67">
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M0 0H365760V205740H0V0Z"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_67)">
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M0 0H365760V205740H0Z" fill="#5f6368" fill-rule="evenodd"/>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M148851 88404H239871V117336H148851Z" fill-opacity="0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 293.01377 174.02362)" font-size="18.666666" font-family="ArialMT"><tspan y="26.919999" x="21.731553">&#x25cf;</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 293.01377 174.02362)" font-size="18.666666" font-family="OpenSans"><tspan y="26.919999" x="57 68.218669 78.69067 83.39467 93.75467 98.45867 108.81867 116.43467 126.79467 138.23734 143.072 154.29068 164.76268 176.20536 182.8507 187.55469 198.99736">Pelajaran Penting</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 293.01377 174.02362)" font-size="18.666666" font-family="ArialMT"><tspan y="60.519998" x="21.731553">&#x25cf;</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 293.01377 174.02362)" font-size="18.666666" font-family="OpenSans"><tspan y="60.519998" x="57 66.725337 77.085338 88.528 98.64533 108.445339 118.805339 130.248 135.08267 146.488 156.96 164.576 169.28 179.08 190.52268 197.16802 208.61069 217.94402">Langkah berikutnya</tspan></text>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M-18755 91788H129421V113952H-18755Z" fill-opacity="0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 -36.919294 180.68505)" font-size="32" font-family="OpenSans"><tspan y="39.72" x="106.116519 125.86052 143.81252 163.42852 178.75652 196.51651 216.1325 233.8925 242.1805 258.9805 276.9325 285.2205 304.7725 322.7245 342.2765 360.0365">Rencana ke depan</tspan></text>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M138404 41286 139868 164454" fill-opacity="0" fill-rule="evenodd"/>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" stroke-width="762" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#ffffff" d="M138404 41286 139868 164454"/>
+</g>
+</g>
+</svg>

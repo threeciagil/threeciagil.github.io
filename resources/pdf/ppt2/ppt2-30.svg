@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="720pt" height="405pt" viewBox="0 0 720 405">
+<defs>
+<clipPath id="clip_71">
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M0 0H365760V205740H0V0Z"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_71)">
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M0 0H365760V205740H0Z" fill="#4285f4" fill-rule="evenodd"/>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M84258 88092H281502V117648H84258Z" fill-opacity="0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 165.86222 173.40946)" font-size="48" font-family="OpenSans"><tspan y="55.079999" x="109.998828 136.39884 163.32685 182.91085 195.00684 239.40683 266.0468 278.47883 303.67884 330.31886 353.16685 365.26286 394.68687">Terima kasih!</tspan></text>
+</g>
+</g>
+</svg>

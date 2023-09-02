@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="720pt" height="405pt" viewBox="0 0 720 405">
+<defs>
+<clipPath id="clip_14">
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M0 0H365760V205740H0V0Z"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_14)">
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M0 0H365760V205740H0Z" fill="#ea4335" fill-rule="evenodd"/>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M20037.24 83292H129774.96V124655.96H20037.24Z" fill-opacity="0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 39.443387 163.96063)" font-size="32" font-family="OpenSans"><tspan y="39.72" x="109.75989 138.5279 156.47989 186.0799 203.83989 223.45589 241.21588 270.8159 278.87989">Memahami </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 39.443387 163.96063)" font-size="32" font-family="OpenSans"><tspan y="83.88" x="130.07239 149.62439 167.57639 187.19239 204.53638 221.88037 241.49637 261.11238">pengguna</tspan></text>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M148497 75474H306357V130266H148497Z" fill-opacity="0" fill-rule="evenodd"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="ArialMT"><tspan y="26.919999" x="21.731553">&#x25cf;</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="OpenSans"><tspan y="26.919999" x="57 68.517337 73.22134 82.10667 92.57867 99.224 104.05866 115.464 125.936 137.37866 147.496 157.61334 169.05602 180.49869">Riset pengguna</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="ArialMT"><tspan y="60.519998" x="21.731553">&#x25cf;</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="OpenSans"><tspan y="60.519998" x="57 68.218669 78.69067 86.30666 95.19199 106.41066 117.853328">Persona</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="ArialMT"><tspan y="94.119998" x="21.731553">&#x25cf;</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="OpenSans"><tspan y="94.119998" x="57 68.218669 78.69067 86.30666 97.74933 107.082668 117.442668 124.088 134.448 144.808 156.25067 161.08535 178.352 188.712 197.59734 207.95734 212.66133 223.02133">Pernyataan masalah</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="ArialMT"><tspan y="127.71999" x="21.731553">&#x25cf;</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="OpenSans"><tspan y="127.71999" x="57 68.218669 78.69067 85.336 95.696">Peta </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 292.31697 148.57086)" font-size="18.666666" font-family="OpenSans" font-style="italic"><tspan y="127.71999" x="100.561618 111.313617 119.35895 128.65496 136.02829 140.86296 145.56696 156.05762 166.80962 174.18296 184.93495 194.23096">user journey</tspan></text>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" d="M138404 41286 139868 164454" fill-opacity="0" fill-rule="evenodd"/>
+<path transform="matrix(.001968504,0,0,.001968504,0,0)" stroke-width="762" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#ffffff" d="M138404 41286 139868 164454"/>
+</g>
+</g>
+</svg>

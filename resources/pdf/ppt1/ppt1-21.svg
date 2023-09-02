@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="720pt" height="405.04pt" viewBox="0 0 720 405.04">
+<defs>
+<clipPath id="clip_481">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M0 .000061035H720V405.04008H0Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_482">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_483">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_484">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_485">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_486">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M.000010729 .000030518H720V405.04005H.000010729Z" fill-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_481)">
+<path transform="matrix(1,0,0,-1,0,405.04)" d="M0 .000030518H720V405.04005H0Z" fill="#5f6368" fill-rule="evenodd"/>
+</g>
+<g clip-path="url(#clip_482)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="13.833" font-family="ArialMT"><tspan y="-204.84" x="311.36">&#x25cf;</tspan></text>
+</g>
+<g clip-path="url(#clip_483)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="13.833" font-family="Open Sans"><tspan y="-204.84" x="336.54 344.70149 352.48948 356.0169 363.8049 367.33235 375.12034 380.7642 388.57987 397.07334 400.97425 409.1357 416.9237 425.41719 430.38325 433.91069 442.40415">Pelajaran Penting</tspan></text>
+</g>
+<g clip-path="url(#clip_484)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="13.833" font-family="ArialMT"><tspan y="-179.63" x="311.36">&#x25cf;</tspan></text>
+</g>
+<g clip-path="url(#clip_485)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="13.833" font-family="Open Sans"><tspan y="-179.63" x="336.54 343.63633 351.42433 359.9178 367.3876 374.48396 382.27195 390.7654 395.02598 403.5056 411.32127 416.96513 420.53404 427.63038 436.12385 441.0899 449.58338 456.67973">Langkah berikutnya</tspan></text>
+</g>
+<g clip-path="url(#clip_486)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 405.04)" font-size="24.142" font-family="Open Sans"><tspan y="-192.14" x="41.237 56.156759 69.60386 84.475337 95.822078 109.245029 124.16478 137.58774 143.30939 156.05637 169.60004 175.87696 190.7967 204.34037 219.1394 232.6348">Rencana ke depan</tspan></text>
+</g>
+<path transform="matrix(1,0,0,-1,0,405.04)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#ffffff" d="M272.39 323.82 275.28 81.366"/>
+</g>
+</svg>
